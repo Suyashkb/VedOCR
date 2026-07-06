@@ -2,7 +2,7 @@
 
 **An Expert-Annotated Dataset and Transformer OCR Baseline for Vedic Sanskrit Manuscripts**
 
-Published at DALL 2026 @ ICDAR (Workshop on Documents Analysis of Low-Resource Languages), Vienna, September 2026.
+Published at DALL 2026 @ ICDAR (Workshop on Documents Analysis of Low-Resource Languages), Vienna, Austria, September 2026.
 
 ---
 
