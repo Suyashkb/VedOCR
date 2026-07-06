@@ -31,7 +31,7 @@ from collections import defaultdict
 
 # Import MorphBG
 import importlib.util
-spec = importlib.util.spec_from_file_location("morphbg_pipeline", Path(__file__).parent / "01_morphbg_pipeline.py")
+spec = importlib.util.spec_from_file_location("morphbg_pipeline", Path(__file__).parent.parent / "pipeline" / "01_morphbg.py")
 morphbg_module = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(morphbg_module)
 MorphBG = morphbg_module.MorphBG

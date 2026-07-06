@@ -278,7 +278,7 @@ def main():
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python 01_morphbg_pipeline.py <input_image> [output_image]")
+        print("Usage: python 01_morphbg.py <input_image> [output_image]")
         sys.exit(1)
 
     input_path = sys.argv[1]
