@@ -144,12 +144,16 @@ sudo apt-get install tesseract-ocr tesseract-ocr-san tesseract-ocr-hin
 ## Citation
 
 ```bibtex
-@inproceedings{vedocr2026,
-  title     = {VedOCR: An Expert-Annotated Dataset and Transformer OCR Baseline
-               for Vedic Sanskrit Manuscripts},
-  booktitle = {Proceedings of DALL 2026 @ ICDAR},
-  year      = {2026}
+@inproceedings{surname2026vedocr,
+  author    = {Surname, Suyash and Coauthor, A. and Indu, S. and Jayanthi, N.},
+  title     = {VedOCR: An Expert-Annotated Dataset and Transformer OCR
+               Baseline for Vedic Sanskrit Manuscripts},
+  series    = {Lecture Notes in Computer Science},
+  publisher = {Springer},
+  address   = {Vienna, Austria},
+  year      = {2026},
+  note      = {DALL 2026 Workshop. To appear.}
 }
 ```
 
-*(Full citation with authors and DOI added after camera-ready.)*
+*(Full citation with DOI added after camera-ready.)*
